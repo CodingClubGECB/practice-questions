@@ -1,3 +1,1 @@
 # practice-questions
-
-hello
